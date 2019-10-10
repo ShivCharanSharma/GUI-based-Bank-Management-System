@@ -4,7 +4,7 @@ It is Bank management system  implemented in C++ . Its GUI is made with C graphi
 ### Steps to run 
 - Install Turbo C++.
 - Download zip file of the project.
-- Extraxt and Move the zip file to BIN of Turbo C++(maybe C://TURBOC3//BIN).
+- Extract and Move the zip file to BIN of Turbo C++(maybe C://TURBOC3//BIN).
 - Select the extracted file in turbo C++.
 - Execute the code and comprehend accordingly.
 
